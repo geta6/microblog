@@ -1,0 +1,19 @@
+# system
+.DS_Store
+*.sw*
+
+# env specific
+.env*
+
+# output
+tmp
+dist
+.next
+
+# node.js
+node_modules
+package-lock.json
+npm-shrinkwrap.json
+npm-debug.log
+isolate-*
+yarn-*

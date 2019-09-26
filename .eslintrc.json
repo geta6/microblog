@@ -1,0 +1,39 @@
+{
+  "env": {
+    "es6": true,
+    "node": true,
+    "browser": true,
+    "jest": true,
+    "jasmine": true
+  },
+  "extends": [
+    "eslint:recommended",
+    "prettier/react",
+    "plugin:react/recommended",
+    "plugin:prettier/recommended",
+    "plugin:import/errors",
+    "plugin:import/warnings",
+    "plugin:import/typescript"
+  ],
+  "globals": {},
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": {
+    "sourceType": "module"
+  },
+  "plugins": [
+    "@typescript-eslint",
+    "react",
+    "prettier"
+  ],
+  "settings": {
+    "react": {
+      "version": "detect"
+    }
+  },
+  "rules": {
+    "no-unused-vars": 0,
+    "import/default": 0,
+    "react/display-name": 0,
+    "prettier/prettier": 2
+  }
+}

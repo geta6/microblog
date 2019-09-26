@@ -1,0 +1,14 @@
+{
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "files.associations": {
+    ".eslintrc": "json",
+    ".prettierrc": "json",
+    ".lintstagedrc": "json",
+    ".huskyrc": "json"
+  },
+  "javascript.format.enable": false,
+  "javascript.validate.enable": false,
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "eslint.autoFixOnSave": true
+}

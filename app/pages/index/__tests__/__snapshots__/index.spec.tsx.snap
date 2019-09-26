@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`IndexPage snap shot 1`] = `
+<div
+  className="style__Container-sc-1xy7lcb-0 dnIENZ"
+>
+  <div
+    className="style__Contents-sc-1xy7lcb-1 dxkzkx"
+  >
+    <p>
+      水馬赤いな。ア、イ、ウ、エ、オ。
+    </p>
+    <p>
+      浮藻に子蝦もおよいでる。
+    </p>
+    <p>
+      柿の木、栗の木。カ、キ、ク、ケ、コ。
+    </p>
+    <p>
+      啄木鳥こつこつ、枯れけやき。
+    </p>
+  </div>
+</div>
+`;

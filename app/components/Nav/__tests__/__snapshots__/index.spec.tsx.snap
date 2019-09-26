@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NavComponent snap shot 1`] = `
+<div
+  className="style__Container-u8fa6-0 kpccir"
+>
+  <div
+    className="style__Col-u8fa6-1 imLpjy"
+  >
+    <div
+      className="style__Logo-u8fa6-2 eJIrdo"
+    >
+      Microblog
+    </div>
+    <div
+      className="style__Row-u8fa6-3 fJYSMW"
+    >
+      Menu1
+    </div>
+    <div
+      className="style__Row-u8fa6-3 fJYSMW"
+    >
+      Menu2
+    </div>
+    <div
+      className="style__Row-u8fa6-3 fJYSMW"
+    >
+      Menu3
+    </div>
+  </div>
+</div>
+`;

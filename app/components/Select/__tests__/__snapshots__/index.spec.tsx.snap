@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SelectComponent snap shot 1`] = `
+<div
+  className="style__Container-yir4sn-0 ekeCgB"
+  style={
+    Object {
+      "backgroundColor": undefined,
+    }
+  }
+>
+  <div
+    className="style__Contents-yir4sn-1 hQOxkZ"
+    onClick={[Function]}
+  >
+    PINK
+  </div>
+  <div
+    className="style__Contents-yir4sn-1 hQOxkZ"
+    onClick={[Function]}
+  >
+    CYAN
+  </div>
+</div>
+`;
